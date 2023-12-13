@@ -1,0 +1,54 @@
+.mainContainerForsignup{
+          /* background-color: #163c76; */
+          background-image: url( "https://img.freepik.com/free-vector/abstract-banner-with-low-poly-plexus-network-communications-design_1048-12914.jpg?w=1380&t=st=1700463490~exp=1700464090~hmac=4b46207852af0fcadbcd3fee5adb2c7a5bf93bde99b4470f99d88e56c1888b5c");
+          height: 100vh;
+}
+
+.submainContainer{
+          display: flex;
+          align-items: center;
+          padding-top: 200px;
+          /* font-Size:200px; */
+}
+
+.logoText{
+          font-size: 60px;
+          text-align: start;
+          margin-top: 0px;
+}
+.introtext{
+          font-size: 40px;
+          text-align: start;
+          margin-top: -40px;
+}
+
+.createaccountTxt{
+          font-size: 40px;
+          margin-top: 10px;
+          text-align: start;
+          margin-left: 30%;
+}
+
+.inputText{
+          display: flex;
+          margin-left: 30%;
+          width: 40%;
+          margin-top: 20px;
+          padding: 10px;
+          border: none;
+          border-radius: 10px;
+}
+
+.btnforsignup{
+          margin-left: 2%;
+          margin-top: 10px;
+          border-radius: 10px;
+          padding-left: 180px;
+          padding-right: 202px;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          cursor: pointer;
+}
+.part{
+          color: rgb(167, 127, 127);
+}
